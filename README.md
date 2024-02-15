@@ -1,0 +1,2 @@
+# SE-ALES-Y-SISTEMAS
+EJERCICIOS cuaderno 1 python
